@@ -1,0 +1,89 @@
+GameTraceSource Information: 0 : New logger created
+GameTraceSource Information: 1 : Logger configuration done: 4/27/2023 10:07:10 AM
+GameTraceSource Information: 2 : Default values for world are set. MaxX: 100, MaxY: 2000
+GameTraceSource Information: 3 : World configuration done: 4/27/2023 10:07:11 AM
+GameTraceSource Information: 4 : Creature configuration done: 4/27/2023 10:07:11 AM
+GameTraceSource Information: 5 : World is created
+GameTraceSource Warning: 6 : Zoro looted potion and added to their inventory
+GameTraceSource Warning: 7 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 8 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 9 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 10 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 11 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 12 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 13 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 14 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 15 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 16 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 17 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 18 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 19 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 20 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 21 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 22 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 23 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 24 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 25 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 26 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 27 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 28 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 29 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 30 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 31 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 32 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 33 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 34 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 35 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 36 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 37 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 38 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 39 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 40 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 41 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 42 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 43 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 44 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 45 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 46 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 47 : Mihawk received 5 damage from an sword
+GameTraceSource Critical: 48 : Mihawk's state has been changed to hurt state limiting some actions
+GameTraceSource Warning: 49 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 50 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 51 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 52 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 53 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 54 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 55 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 56 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 57 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 58 : Zoro received 5 damage from an sword
+GameTraceSource Critical: 59 : Zoro's state has been changed to hurt state limiting some actions
+GameTraceSource Warning: 60 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 61 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 62 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 63 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 64 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 65 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 66 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 67 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 68 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 69 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 70 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 71 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 72 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 73 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 74 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 75 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 76 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 77 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 78 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 79 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 80 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 81 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 82 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 83 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 84 : Mihawk dealt 5 damage to Zoro
+GameTraceSource Warning: 85 : Mihawk received 5 damage from an sword
+GameTraceSource Warning: 86 : Zoro dealt 5 damage to Mihawk
+GameTraceSource Warning: 87 : Zoro received 5 damage from an sword
+GameTraceSource Warning: 88 : Mihawk dealt 5 damage to Zoro

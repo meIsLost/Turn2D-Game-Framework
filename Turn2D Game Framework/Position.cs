@@ -18,5 +18,12 @@ namespace Turn2D_Game_Framework
             this.y = y;
 
         }
+
+        public double DistanceTo(Creature creature)
+        {
+            int dx = x - creature.position.x;
+            int dy = y - creature.position.y;
+            return Math.Sqrt(dx * dx + dy * dy);
+        }
     }
 }

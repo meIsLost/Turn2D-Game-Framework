@@ -1,9 +1,11 @@
-﻿using System;
+﻿
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-
+using Turn2D_Game_Framework.Logging;
+using Turn2D_Game_Framework.WorldItem;
 
 namespace Turn2D_Game_Framework.ForCreature
 {
@@ -15,9 +17,10 @@ namespace Turn2D_Game_Framework.ForCreature
             private Position position;
             private List<AttackItem> attackObjects = new List<AttackItem>();
             private List<DefenceItem> defenceObjects = new List<DefenceItem>();
-            
+            private ILogger logger;
 
-            public CreatureFactory WithHealth(int health)
+
+        public CreatureFactory WithHealth(int health)
             {
                 this.health = health;
                 return this;
@@ -46,12 +49,16 @@ namespace Turn2D_Game_Framework.ForCreature
                 this.defenceObjects.Add(defenceObject);
                 return this;
             }
-
-           
-
-            public Creature Build()
+            public CreatureFactory WithLogger(ILogger logger)
             {
-                Creature creature = new Creature(health, name, attackObjects, defenceObjects, position);
+                this.logger = logger;
+                return this;
+            }
+
+
+        public Creature Build()
+            {
+                Creature creature = new Creature(health, logger,name, attackObjects, defenceObjects, position);
                 World.AddCreature(creature);
                 return creature;
                 
